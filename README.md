@@ -2,7 +2,8 @@
 
 A musical interactive application that translates the periodic table of elements into playable frequencies, creating a unique audio-visual experience.
 
-![Elemental Harmonics Piano](https://raw.githubusercontent.com/lalomorales22/frequency-elemental-piano/main/app_screenshot.png)
+![Screenshot 2025-05-06 at 6 43 20 PM](https://github.com/user-attachments/assets/ae40bc9d-bd20-4653-86a9-307bc2132ae4)
+
 
 ## 🌟 Overview
 
